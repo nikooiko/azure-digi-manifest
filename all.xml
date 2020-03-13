@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <default sync-j="8" revision="thud"/>
+  <include name="remotes.xml"/>
+  <include name="digi-sources.xml"/>
+  <include name="azure-sources.xml"/>
+</manifest>
