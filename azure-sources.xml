@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <project name="meta-virtualization" path="sources/meta-virtualization" remote="yocto" revision="thud"/>
-  <project name="meta-rust"           path="sources/meta-rust"           remote="rust"  revision="master"/>
+  <project name="meta-rust"           path="sources/meta-rust"           remote="rust"  revision="9487b089ea4779c2b494b17b9254219226efa539"/>
   <project name="meta-iotedge"        path="sources/meta-iotedge"        remote="azure"    revision="thud"/>
 </manifest>
